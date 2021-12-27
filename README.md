@@ -133,7 +133,7 @@ Here are some ideas to get you started:
  <br>
  
  #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/AashleeBedi/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/BediAashlee/count.svg)
 
 <h3 align="right">Appreciate your feedback <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
 
