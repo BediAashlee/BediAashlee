@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AashleeBedi&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BediAashlee&theme=radical)
 
 ---
 
