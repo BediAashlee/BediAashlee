@@ -59,8 +59,9 @@
 ## Github Stats:
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bediaashlee&theme=radical&show_icons=true&locale=en" alt="bediaashlee" />
-<img align="right" width="45% "src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="bediaashlee" />
+<img align="right" "src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="bediaashlee" />
 </p>
+
 ---
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
