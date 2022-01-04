@@ -59,7 +59,7 @@
 ## Github Stats:
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=bediaashlee&theme=radical&show_icons=true&locale=en" alt="bediaashlee" />
-<img align="right" "src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="bediaashlee" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="bediaashlee" />
 </p>
 
 ---
