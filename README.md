@@ -52,7 +52,8 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-aashleebedi.vercel.app/api/spotify)](https://open.spotify.com/user/31tyqbzqiy2wqgkyo77gcc6wlgmu)
+<!--[![Spotify](https://novatorem-aashleebedi.vercel.app/api/spotify)](https://open.spotify.com/user/31tyqbzqiy2wqgkyo77gcc6wlgmu)-->
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31tyqbzqiy2wqgkyo77gcc6wlgmu)
 
 ---
 
