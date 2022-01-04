@@ -69,49 +69,7 @@ Here are some ideas to get you started:
 
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BediAashlee&theme=radical)
-
----
-
-<details>
-  <summary> <b> Now, Let's Meet in an Informal Way! </b> <i>(click to expand!)</i> </summary>
-  <p align="center">
-  <br>
-  <samp>
-    Hi! I'm Aashlee Bedi. :wave:
-    <br><br>
-    I'm Altruistic. :hand:
-    <br><br>
-    While Coding, Listening Music and Developing Useful Code. :star:
-    <br><br>
-    I Believe in a World Where Music :musical_note: Can Solve Any and All the Problems. :grin:
-    <br><br>
-    I'm Looking For Help With Data Structures and Algorithms. :cry:
-    <br><br>
-    Love to Explore New Tech Stacks. :computer: Want To Be At the Bleeding Edge :mountain: of Technology. :woman_technologist:
-    <br><br>
-   
-    P.S. I Do Know That HTML is Not a Programming Language! :v:
-  </samp>
-</p>
-  <br>
-  
-<h2 align="center">
-  Do You Speak <b>اردو</b> ? It's Okay If You Don't. 
-</h2>
-<h3 align="center">
-  I Speak English Too, Get in Touch.
-</h3>
-  
-  
-<p align="center">
- <a href="mailto:aashleebedi02@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/AashleeBedi"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/aashleebedi/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/chanduultimate4"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-   
-</p>
-</details>   
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BediAashlee&theme=radical) 
 
 ---
 
