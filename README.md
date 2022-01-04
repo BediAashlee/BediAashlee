@@ -65,8 +65,8 @@
 ---
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
- <a href="https://twitter.com/shreyaaaaaaaaa_">
+<p>
+ <a href="https://twitter.com">
   <img align="left" alt="Aashlee's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
 <a href="https://www.linkedin.com/in/aashleebedi/">
@@ -80,7 +80,7 @@
 </a>
  <a href="https://auth.geeksforgeeks.org/user/don0391/profile">
   <img align="left" alt="Aashlee's GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a>
+</a></p>
  <br>
  <br>
  
