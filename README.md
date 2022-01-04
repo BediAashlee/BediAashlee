@@ -1,23 +1,10 @@
-### Hi there 👋
 
 <!--
 **BediAashlee/BediAashlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-<h1> AASHLEE BEDI </h1>
-
+<h1 align="center">Hey! 👋 I'm Aashlee Bedi</h1>
+<h3 align="center">A passionate Full-Stack Web Developer from India.</h3>
 
 ## About Me:
 
@@ -51,6 +38,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
 <br />
 <br />
 
@@ -66,11 +54,13 @@ Here are some ideas to get you started:
 
 [![Spotify](https://novatorem-aashleebedi.vercel.app/api/spotify)](https://open.spotify.com/user/31tyqbzqiy2wqgkyo77gcc6wlgmu)
 
-
 ---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=BediAashlee&theme=radical) 
-
+## Github Stats:
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bediaashlee&theme=radical&show_icons=true&locale=en" alt="bediaashlee" />
+<img align="right" width="45% "src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="bediaashlee" />
+</p>
 ---
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
@@ -87,6 +77,9 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/aashleebedi02">
   <img align="left" alt="Aashlee's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+ <a href="https://auth.geeksforgeeks.org/user/don0391/profile">
+  <img align="left" alt="Aashlee's GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
  <br>
  <br>
  
@@ -97,5 +90,10 @@ Here are some ideas to get you started:
 
 ---
 
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bediaashlee&theme=radical" alt="bediaashlee" /></a> </p>
+ 
+ ---
+
 
 ⭐️ From [@AashleeBedi](https://github.com/AashleeBedi)
+ 
