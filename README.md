@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hey! 👋 I'm Aashlee Bedi</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from India.</h3>
+<h3 align="center">A passionate Developer from India.</h3>
 
 ## About Me: :girl:
 
@@ -14,8 +14,8 @@
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate :brain: on any Open-Source Project involving *JavaScript/MERN Stack*. :handshake:
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" /> I have worked on :computer: C++, Java, HTML/CSS, React, Nodejs, MongoDB, MySQL, Git, etc. 🌐
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" /> Ask me about *Why do I think :skull: Spirits :ghost: exist*. :skull_and_crossbones:
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> I firmly believe that no amount of *knowledge* 💡 is Enough Knowledge. :bowing_woman:
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a *STAR*⭐️ if you like my work👨‍💻.
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" /> I firmly believe that No Amount of *Knowledge* 💡 is Enough Knowledge. :bowing_woman:
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" /> Have a look at my Repos💡 & do Leave a *STAR* ⭐️ if you like my work 👨‍💻.
 <br>
 
 ---
@@ -94,4 +94,4 @@
 
 ---
 
-⭐️ From [@AashleeBedi](https://github.com/AashleeBedi)
+⭐️ From [@AashleeBedi](https://github.com/BediAashlee)
