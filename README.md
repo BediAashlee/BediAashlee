@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hey! 👋 I'm Aashlee Bedi</h1>
-<h3 align="center">A passionate Developer from India.</h3>
+<h3 align="center">A Tech Enthusiast from India.</h3>
 
 ## About Me: :girl:
 
