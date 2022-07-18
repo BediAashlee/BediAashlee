@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m a *pre-final year* :woman_student: under-graduate majoring in *Computer Science Engineering*. :computer:
+- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m a *Final year* :woman_student: under-graduate majoring in *Computer Science Engineering*. :computer:
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" height="20vh" /> I’m currently learning *Full Stack Web Development*. 💪
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" height="20vh"/> I’m looking to collaborate :brain: on any Open-Source Project involving *JavaScript/MERN Stack*. :handshake:
 - <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" height="20vh"/> I have worked on :computer: C++, Java, HTML/CSS, React, Nodejs, MongoDB, MySQL, Git, etc. 🌐
@@ -60,9 +60,11 @@
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 <p>
+ <!--
  <a href="https://twitter.com">
   <img align="left" alt="Aashlee's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
  </a>
+ -->
 <a href="https://www.linkedin.com/in/aashleebedi/">
   <img align="left" alt="Aashlee's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
