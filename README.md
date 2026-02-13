@@ -2,83 +2,95 @@
 **BediAashlee/BediAashlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">Hey! 👋 I'm Aashlee Bedi</h1>
-<h3 align="center">A Developer from India</h3>
-
-## About Me: :girl:
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/wave.gif" width="20vw" height="20vh" /> I’m a *Final year* :woman_student: under-graduate majoring in *Computer Science Engineering*. :computer:
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/gandalf_parrot.gif" width="20vw" height="20vh" /> I’m currently learning *Full Stack Web Development*. 💪
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/headbang.gif" width="20vw" height="20vh"/> I’m looking to collaborate :brain: on any Open-Source Project involving *JavaScript/MERN Stack*. :handshake:
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/hmm.gif" width="20vw" height="20vh"/> I have worked on :computer: C++, Java, HTML/CSS, React, Nodejs, MongoDB, MySQL, Git, etc. 🌐
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/happy.gif" width="20vw" height="20vh"/> Ask me about *Why do I think :skull: Spirits :ghost: exist*? :skull_and_crossbones:
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/coin.gif" width="20vw" height="20vh"/> I firmly believe that No Amount of *Knowledge* 💡 is Enough Knowledge. :bowing_woman:
-- <img alt="GIF" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Medal.gif" width="20vw" height="20vh"/> Have a look at my Repos💡 & do Leave a *STAR* ⭐️ if you like my work 👨‍💻.
-<br>
-
----
-<img align="right" alt="GIF" height="160px"  src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" />
-
-### Tech & Tools Preference: :computer:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-### Other Languages I know:
-
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<h1 align="center">Hi 👋 I'm Aashlee Bedi</h1>
+<h3 align="center">Frontend Engineer | React Specialist | Building Scalable Web Applications</h3>
 
 ---
 
-## My GitHub Stats: 📊
+## 👩‍💻 About Me
+
+I’m a Software Developer based in India, focused on building performant, scalable, and clean user interfaces using modern JavaScript frameworks.
+
+Over the past few years, I’ve worked on production-grade React applications involving complex state management, API integrations, scheduling systems, configuration workflows, and dynamic data-driven components.
+
+I care deeply about:
+- Writing clean, maintainable code
+- Designing scalable component architecture
+- Optimizing rendering performance
+- Building intuitive user experiences
+
+---
+
+## 🚀 Technical Stack
+
+### ⚛️ Frontend
+- React.js  
+- Redux  
+- JavaScript (ES6+)  
+- HTML5  
+- CSS3  
+- Material UI  
+- Styled Components  
+
+### 🔧 Backend & Database
+- Node.js  
+- Express.js  
+- MongoDB  
+- MySQL  
+
+### 🛠 Tools & Practices
+- Git & GitHub  
+- REST APIs  
+- JWT Authentication  
+- Firebase  
+- Component-driven architecture  
+- Responsive Design  
+- Form validation strategies  
+- Performance optimization (useCallback, memoization, controlled re-renders)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bediaashlee&theme=radical&show_icons=true&count_private=true" alt="Aashlee :: Profile Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bediaashlee&langs_count=8&theme=radical&layout=compact" alt="Aashlee :: Top Langs" />
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bediaashlee&theme=radical" alt="Aashlee :: readme stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bediaashlee&show_icons=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bediaashlee&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-# Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## 🌱 Currently Exploring
+
+- Advanced React patterns  
+- System design fundamentals  
+- Backend architecture improvements  
+- Writing cleaner, testable frontend code  
+
+---
+
+## 🤝 Connect With Me
+
 <p>
- <!--
- <a href="https://twitter.com">
-  <img align="left" alt="Aashlee's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
- </a>
- -->
-<a href="https://www.linkedin.com/in/aashleebedi/">
-  <img align="left" alt="Aashlee's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/aashleebedi/" target="_blank">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/AashleeBedi">
-  <img align="left" alt="Aashlee's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/AashleeBedi" target="_blank">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.hackerrank.com/aashleebedi02">
-  <img align="left" alt="Aashlee's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+<a href="https://www.hackerrank.com/aashleebedi02" target="_blank">
+  <img align="left" alt="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
- <a href="https://auth.geeksforgeeks.org/user/don0391/profile">
-  <img align="left" alt="Aashlee's GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
-</a></p>
- <br>
- <br>
+<a href="https://auth.geeksforgeeks.org/user/don0391/profile" target="_blank">
+  <img align="left" alt="GeeksforGeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
+</p>
+
+<br />
+<br />
+
+---
+
+> “No amount of knowledge is ever enough — but consistent curiosity compounds.”
  
  #### Thanks for visiting :gift:
 ![VisitorCount](https://profile-counter.glitch.me/BediAashlee/count.svg)
