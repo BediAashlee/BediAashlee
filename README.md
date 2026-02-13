@@ -50,12 +50,20 @@ I care deeply about:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bediaashlee&show_icons=true&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bediaashlee&layout=compact&hide_border=true" />
-</p>
+<!-- Profile view counter -->
+![](https://komarev.com/ghpvc/?username=bediaashlee&style=flat-square)
+
+<!-- Streak & contributions -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=bediaashlee&theme=radical)
+
+<!-- Profile summary card -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bediaashlee&theme=radical)
+
+<!-- Social badges -->
+![GitHub followers](https://img.shields.io/github/followers/bediaashlee?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/bediaashlee?style=flat-square)
 
 ---
 
