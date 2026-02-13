@@ -101,7 +101,9 @@ I care deeply about:
 > “No amount of knowledge is ever enough — but consistent curiosity compounds.”
  
  #### Thanks for visiting :gift:
-![VisitorCount](https://profile-counter.glitch.me/BediAashlee/count.svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bediaashlee&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
 <h3 align="right">Appreciate your feedback <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px" height= "30px" ></h3>
 
